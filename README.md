@@ -1,2 +1,2 @@
 I have successfully completed my tasks.<br>
-This is Calculator by using basic HTML ,CSS, JavaScript
+This calculator is a basic instrument that is created using a combination of HTML, CSS and JavaScript.
